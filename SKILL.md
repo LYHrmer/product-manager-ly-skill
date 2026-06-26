@@ -68,4 +68,16 @@ PM 工作的本质是**不确定性下的决策**。PRD 是好思考的副产品
 - `discovery.md` — 持续探索、访谈技巧(The Mom Test)、机会-解决方案树。**如何产出证据。**
 - `evidence.md` — 证据层级、引用方式、假设登记、用研→洞察综合。**如何用证据推理。**
 - `strategy.md` — 愿景→战略、为什么是我们/为什么是现在、定位、护城河。
-- `prioritization.md` — RICE/价值-
+- `prioritization.md` — RICE/价值-成本/Kano、P0 纪律、机会成本、决策可逆性(单向/双向门)。
+- `roadmap.md` — 结果导向路线图、now/next/later、排序与对外沟通。
+- `metrics.md` — 结果指标、北极星、护栏/反向指标、OKR、先行 vs 滞后、HEART。
+- `prd.md` — spec 结构、验收标准、out-of-scope 纪律。
+- `launch.md` — 上线就绪、灰度/GTM、上线后 迭代/加倍/砍掉 决策。
+- `stakeholders.md` — 对齐、disagree-and-commit、叙事备忘录、干系人更新。
+- `critique.md` — 每种产物的硬性验收 rubric、pre-mortem、冷读测试(可执行)。
+- `example-walkthrough.md` — 一个端到端示例,走完 6 道门,每步好/坏对照。
+- `templates/` — 8 个产物模板,每个带"反模板"护栏。
+
+## 边界(本技能不做的事)
+
+产出 PRD/战略/指标等**文档与决策**即交付。**不**出可运行原型、**不**写工程实施代码计划——那是下游设计/工程的事。若你的环境恰好装了原型构建或实施计划类的伴生技能,可顺手交接;但本技能不依赖它们,独立即可完整运转。
